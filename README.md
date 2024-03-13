@@ -63,8 +63,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rupinder-roop/rupinder-roop/output/snake.svg" alt="Snake animation" />
-
+<!-- <img src="https://raw.githubusercontent.com/rupinder-roop/rupinder-roop/output/snake.svg" alt="Snake animation" />
 ###
 
 <div align="center">
@@ -74,3 +73,4 @@
 </div>
 
 ###
+-->
