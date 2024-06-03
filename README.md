@@ -1,5 +1,18 @@
 <h4 align="left">Hi 👋! My name is Rupinder Singh and I'm a React & Blockchain Developer, from Punjab (India)</h4>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rupinder-roop" alt="rupinder-roop" /></a> </p>
+- 🌱 I’m currently learning **Rust, Golang, Angular**
 
+- 👯 I’m looking to collaborate on **Blockchain Projects**
+
+- 🤝 I’m looking for help with [Rogn Nft Marketplace](https://rogn.vercel.app/)
+
+- 👨‍💻 All of my projects are available at [https://github.com/rupinder-roop](https://github.com/rupinder-roop)
+
+- 💬 Ask me about **React/NextJS, Solidity, Redux, Nodejs, MongoDB, MYSQL, TS/JS, Vercel, Firebase, MUI**
+
+- 📫 How to reach me **roopcreationz12@gmail.com**
+
+- ⚡ Fun fact **I think I am Rude**
 ###
 
 <div align="center">
@@ -62,6 +75,7 @@
 </div>
 
 ###
+
 
 <!-- <img src="https://raw.githubusercontent.com/rupinder-roop/rupinder-roop/output/snake.svg" alt="Snake animation" />
 ###
