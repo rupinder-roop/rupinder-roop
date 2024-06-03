@@ -22,7 +22,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rupinder-roop&show_icons=true&locale=en" alt="rupinder-roop" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupinder-roop&" alt="rupinder-roop" /></p>
 
 ###
 
