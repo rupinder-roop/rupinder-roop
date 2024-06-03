@@ -1,5 +1,6 @@
 <h4 align="left">Hi 👋! My name is Rupinder Singh and I'm a React & Blockchain Developer, from Punjab (India)</h4>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rupinder-roop" alt="rupinder-roop" /></a> </p>
+
 - 🌱 I’m currently learning **Rust, Golang, Angular**
 
 - 👯 I’m looking to collaborate on **Blockchain Projects**
